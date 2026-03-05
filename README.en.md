@@ -4,7 +4,7 @@ A real-time pricing comparison of major LLM APIs. Data sourced from [xingjiabiap
 
 **xingjiabiapi.org** provides Claude/GPT/Gemini API relay with OpenAI-compatible interface — 45%-93% cheaper than official prices, no overseas credit card required.
 
-## Price Comparison (2026-03-02)
+## Price Comparison (2026-03-06)
 
 ### Claude
 

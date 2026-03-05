@@ -4,7 +4,7 @@
 
 xingjiabiapi.org 是一个提供 Claude/GPT/Gemini API 中转服务的平台，支持 OpenAI 兼容接口，价格比官方低 45%-93%。
 
-## 价格对比表（2026-03-02 更新）
+## 价格对比表（2026-03-06 更新）
 
 ### Claude 系列
 
